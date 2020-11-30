@@ -1,0 +1,5 @@
+Retrospektiivi
+
+Retrospektiivi on Scrum viitekehysmallia käyttävän tiimin työkalu toiminnan jatkuvaan parantamiseen ja liittyy Lean ajatteluun. Siinä tarkastellaan erityisesti työskentelymenetelmiä. Retrospektiivi tilaisuus järjestetään iteraation lopussa tiimin kesken. Tilaisuudessa tiimi käy läpi edellisen iteraation tapahtumat ja tarkastelevat mitä ja miten asioita on tehty, sekä mitä voidaan parantaa tai muuttaa seuraavaan ajanjaksoon. Tarkastelussa on myös, onko edellisen retrospektiivin sovitut muutokset viety käytäntöön. Retrospektiivi tilaisuus projektin loppuun on myös oiva tilaisuus pohtimiselle, miten on mennyt ja mitä oppeja voidaan siitä viedä seuraaviin projekteihin.
+
+Retrospektiivissä on tarkoitus, että jokainen tiimin jäsen osallistuu ja avautuu tilaisuudessa. Mikäli tiimi on kovin iso, niin fasilitoinnilla saadaan apua retrospektiiville. Eli erilaisella ryhmätyöskentelyllä myös tiimin hiljaisemmat jäsenet saavat äänensä kuuluviin. Keskustelut ovat luottamuksellisia, jotta asiat voidaan jakaa avoimesti, sekä myönteiset että kielteiset. Retrospektiivi on työn tehostamisen lisäksi myös työn sujuvoittamista ja hallintaa.
